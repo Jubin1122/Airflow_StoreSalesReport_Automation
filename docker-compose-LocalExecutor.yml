@@ -32,7 +32,7 @@ services:
             - EXECUTOR=Local
             - AIRFLOW__SMTP__SMTP_HOST=smtp.gmail.com
             - AIRFLOW__SMTP__SMTP_USER=m.jubin2211@gmail.com
-            - AIRFLOW__SMTP__SMTP_PASSWORD=veoxvzwkughnpukz
+            - AIRFLOW__SMTP__SMTP_PASSWORD=
             - AIRFLOW__SMTP__SMTP_PORT=587
             - AIRFLOW__SMTP__SMTP_MAIL_FROM=Airflow
         logging:
