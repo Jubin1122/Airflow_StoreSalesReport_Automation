@@ -5,6 +5,7 @@
 Session.vim
 .netrwhist
 *~
+docker-compose-LocalExecutor.yml
 
 ### SublimeText ###
 # cache files for sublime text
